@@ -18,7 +18,3 @@ I'm a soon-to-be Informatics Engineering graduate at ISEP (Instituto Superior de
 - **Port Management System:** Modular full-stack logistics solution using ASP.NET Core, FastAPI, and a Nuxt.js frontend integrated with a real-time 3D visualization module (Three.js).
 - **Drone Show Management:** Served as Backend Developer and Scrum Master. Built with Java and C, focusing on multithreading simulations and algorithm optimization.
 - **HR & Onboarding Dashboards:** Designed and implemented structured, column-based Power BI dashboards for human resources, featuring specific SWOT and SMART objective tracking.
-
-## 📫 Let's Connect
-- [LinkedIn](https://linkedin.com/in/goncaloamaral22)
-- **Email:** goncaloamaral391@gmail.com
